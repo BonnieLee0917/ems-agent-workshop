@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-14",
+  "images": [
+    {
+      "filename": "2026-04-14-001.png",
+      "sender": "He Zhang",
+      "context": "backup大号截图",
+      "time_bjt": "15:05",
+      "downloaded": true,
+      "size": 36304
+    },
+    {
+      "filename": "2026-04-14-002.png",
+      "sender": "Jie Tang",
+      "context": "face fortune看相截图",
+      "time_bjt": "14:34",
+      "downloaded": true,
+      "size": 44021
+    },
+    {
+      "filename": "2026-04-14-003.png",
+      "sender": "Juanjuan Liu",
+      "context": "PM agent PPT截图",
+      "time_bjt": "11:34",
+      "downloaded": true,
+      "size": 31495
+    },
+    {
+      "filename": "2026-04-14-004.png",
+      "sender": "Bojun Chai",
+      "context": "claude-starter 截图1",
+      "time_bjt": "10:58",
+      "downloaded": true,
+      "size": 53862
+    },
+    {
+      "filename": "2026-04-14-005.png",
+      "sender": "Bojun Chai",
+      "context": "claude-starter 截图2",
+      "time_bjt": "10:58",
+      "downloaded": true,
+      "size": 30818
+    },
+    {
+      "filename": "2026-04-14-006.png",
+      "sender": "Jingxia Xing",
+      "context": "工具截图",
+      "time_bjt": "11:06",
+      "downloaded": true,
+      "size": 59446
+    },
+    {
+      "filename": "2026-04-14-007.png",
+      "sender": "Zhiyuan Zheng",
+      "context": "A2A K8s工具截图",
+      "time_bjt": "11:05",
+      "downloaded": true,
+      "size": 29812
+    },
+    {
+      "filename": "2026-04-14-008.png",
+      "sender": "He Zhang",
+      "context": "queue项目截图",
+      "time_bjt": "11:04",
+      "downloaded": true,
+      "size": 26726
+    }
+  ]
+}
