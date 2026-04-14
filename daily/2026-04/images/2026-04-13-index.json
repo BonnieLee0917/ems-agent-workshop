@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-13",
+  "timezone": "UTC+8",
+  "images": [
+    {
+      "filename": "2026-04-13-001",
+      "sender": "Jingxia Xing",
+      "time_beijing": "07:44 - 08:40",
+      "context": "Jingxia 分享女儿做的树洞 app 截图，评论'这审美，不亚于我啊'",
+      "url": null,
+      "downloaded": false,
+      "note": "截图在 Jingxia 的消息中提及但未在 API image_urls 中返回，可能是以文件附件形式发送"
+    },
+    {
+      "filename": "2026-04-13-002.png",
+      "sender": "Xiaolin Quan",
+      "time_beijing": "10:15",
+      "context": "Xiaolin 分享孩子 vibe coding 截图，'我的娃也在vibe coding, 现在上瘾和minecraft不相上下'",
+      "url": "https://us-api.asm.skype.com/v1/objects/0-ea-d4-b73f378a30502abfb710d187851aa1ff/views/imgo",
+      "downloaded": false,
+      "note": "Teams API 图片 URL 需要认证 token 下载"
+    }
+  ]
+}
