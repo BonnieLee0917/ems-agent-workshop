@@ -3,20 +3,57 @@
   "images": [
     {
       "filename": "2026-04-13-001.png",
-      "sender": "Xiaolin Quan",
-      "time_utc": "2026-04-13T02:15:30Z",
-      "context": "我的娃也在vibe coding, 现在上瘾和minecraft不相上下，昨天说想做个minecraft出来...",
-      "url": "https://us-api.asm.skype.com/v1/objects/0-ea-d4-b73f378a30502abfb710d187851aa1ff/views/imgo",
-      "downloaded": true
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "10:45",
+      "context": "汇报一下isotopes项目产出，虽然账号被suspend了，但是产出挺好的（他没有自己把自己改炸）\n&nbsp;\n这是一个根据我个人开发习惯而做的openclaw+hermes-agent仿品，和o",
+      "downloaded": true,
+      "size": 521150
     },
     {
-      "filename": null,
+      "filename": "2026-04-13-002.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "10:45",
+      "context": "汇报一下isotopes项目产出，虽然账号被suspend了，但是产出挺好的（他没有自己把自己改炸）\n&nbsp;\n这是一个根据我个人开发习惯而做的openclaw+hermes-agent仿品，和o",
+      "downloaded": true,
+      "size": 217866
+    },
+    {
+      "filename": "2026-04-13-003.gif",
+      "type": "reference",
+      "sender": "He Zhang",
+      "time_bjt": "21:32",
+      "context": "验收了一下他们昨晚loop出来的vibe any，感觉有戏hhh\n这个上架是不是会被卡审核？",
+      "downloaded": true,
+      "size": 13995625
+    },
+    {
+      "filename": "2026-04-13-004.png",
+      "type": "hosted",
+      "sender": "Scott Wei",
+      "time_bjt": "16:49",
+      "context": "",
+      "downloaded": true,
+      "size": 35034
+    },
+    {
+      "filename": "2026-04-13-005.png",
+      "type": "hosted",
+      "sender": "Xiaolin Quan",
+      "time_bjt": "10:15",
+      "context": "我的娃也在vibe coding, 现在上瘾和minecraft不相上下，昨天说想做个minecraft出来...",
+      "downloaded": true,
+      "size": 821156
+    },
+    {
+      "filename": "2026-04-13-006.png",
+      "type": "hosted",
       "sender": "Jingxia Xing",
-      "time_utc": "2026-04-13T00:40:52Z",
-      "context": "这审美，不亚于我啊（女儿做的树洞app截图）",
-      "url": null,
-      "downloaded": false,
-      "note": "图片可能以文件附件形式发送，未在 image_urls 中返回"
+      "time_bjt": "07:44",
+      "context": "",
+      "downloaded": true,
+      "size": 32232
     }
   ]
 }
