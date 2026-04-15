@@ -1,104 +1,92 @@
-{
-  "date": "2026-04-14",
-  "images": [
-    {
-      "filename": "2026-04-14-001.png",
-      "type": "reference",
-      "sender": "Jingxia Xing",
-      "time_bjt": "08:31",
-      "context": "我发现我烧不过这两个败家子了 Zheng Li&nbsp;He Zhang，我们来比这个吧，你们两的娃一个 N个月，一个-M个月，一起来烧？",
-      "downloaded": true,
-      "size": 45659
-    },
-    {
-      "filename": "2026-04-14-002.png",
-      "type": "hostedContent",
-      "sender": "Bojun Chai",
-      "time_bjt": "10:41",
-      "context": "看着像肉手写的，看到最后的Tag吓了一跳\n",
-      "downloaded": true,
-      "size": 7314
-    },
-    {
-      "filename": "2026-04-14-003.png",
-      "type": "hostedContent",
-      "sender": "Bojun Chai",
-      "time_bjt": "10:58",
-      "context": "\n为解决/resume过于难用找不到session的问题，搞了一个claude-starter，一个超轻量级，美观高效的命令行工具，可视化浏览所有历史sessi",
-      "downloaded": true,
-      "size": 284712
-    },
-    {
-      "filename": "2026-04-14-004.png",
-      "type": "hostedContent",
-      "sender": "Bojun Chai",
-      "time_bjt": "10:58",
-      "context": "\n为解决/resume过于难用找不到session的问题，搞了一个claude-starter，一个超轻量级，美观高效的命令行工具，可视化浏览所有历史sessi",
-      "downloaded": true,
-      "size": 119425
-    },
-    {
-      "filename": "2026-04-14-005.png",
-      "type": "hostedContent",
-      "sender": "He Zhang",
-      "time_bjt": "11:04",
-      "context": "\n这是现在在queue的项目哈哈，根本跑不完",
-      "downloaded": true,
-      "size": 80326
-    },
-    {
-      "filename": "2026-04-14-006.png",
-      "type": "hostedContent",
-      "sender": "Zhiyuan Zheng",
-      "time_bjt": "11:05",
-      "context": "有同事用过这个吗？",
-      "downloaded": true,
-      "size": 96011
-    },
-    {
-      "filename": "2026-04-14-007.png",
-      "type": "hostedContent",
-      "sender": "Jingxia Xing",
-      "time_bjt": "11:06",
-      "context": "",
-      "downloaded": true,
-      "size": 3652069
-    },
-    {
-      "filename": "2026-04-14-008.png",
-      "type": "hostedContent",
-      "sender": "Juanjuan Liu",
-      "time_bjt": "11:34",
-      "context": "其实每个人自带几个agent，各自有一些不同的技能，除了agent们一起做项目，还可以模拟好多“日常”工作场景，比如上次 He Zhang&nbsp;&nbsp",
-      "downloaded": true,
-      "size": 83071
-    },
-    {
-      "filename": "2026-04-14-009.png",
-      "type": "reference",
-      "sender": "Miaomiao Lei",
-      "time_bjt": "13:01",
-      "context": "omg!!!&nbsp;He&nbsp;这些是啥",
-      "downloaded": true,
-      "size": 158310
-    },
-    {
-      "filename": "2026-04-14-010.png",
-      "type": "hostedContent",
-      "sender": "Jie Tang",
-      "time_bjt": "14:34",
-      "context": "",
-      "downloaded": true,
-      "size": 1004281
-    },
-    {
-      "filename": "2026-04-14-011.png",
-      "type": "hostedContent",
-      "sender": "He Zhang",
-      "time_bjt": "15:05",
-      "context": "\n猜猜 &nbsp;Mike Li&nbsp;老师能get新的梗，为了防止大号也被封搞了个大号的backup",
-      "downloaded": true,
-      "size": 67452
-    }
-  ]
-}
+[
+  {
+    "filename": "2026-04-14-001.png",
+    "sender": "Jingxia Xing",
+    "timestamp": "2026-04-14T00:31:17.314Z",
+    "type": "reference",
+    "original_name": "Screenshot 2026-04-14 at 08.30.33.png",
+    "size_kb": 45,
+    "context": "我发现我烧不过这两个败家子了 Zheng Li&nbsp;He Zhang，我们来比这个吧，你们两的娃一个 N个月，一个-M个月，一起来烧？"
+  },
+  {
+    "filename": "2026-04-14-002.png",
+    "sender": "Bojun Chai",
+    "timestamp": "2026-04-14T02:41:52.263Z",
+    "type": "hostedContent",
+    "size_kb": 7,
+    "context": "看着像肉手写的，看到最后的Tag吓了一跳"
+  },
+  {
+    "filename": "2026-04-14-003.png",
+    "sender": "Bojun Chai",
+    "timestamp": "2026-04-14T02:58:49.839Z",
+    "type": "hostedContent",
+    "size_kb": 278,
+    "context": "为解决/resume过于难用找不到session的问题，搞了一个claude-starter，一个超轻量级，美观高效的命令行工具，可视化浏览所有历史session，支持全文搜索、项目筛选、对话预览、"
+  },
+  {
+    "filename": "2026-04-14-004.png",
+    "sender": "Bojun Chai",
+    "timestamp": "2026-04-14T02:58:49.839Z",
+    "type": "hostedContent",
+    "size_kb": 117,
+    "context": "为解决/resume过于难用找不到session的问题，搞了一个claude-starter，一个超轻量级，美观高效的命令行工具，可视化浏览所有历史session，支持全文搜索、项目筛选、对话预览、"
+  },
+  {
+    "filename": "2026-04-14-005.png",
+    "sender": "He Zhang",
+    "timestamp": "2026-04-14T03:04:02.043Z",
+    "type": "hostedContent",
+    "size_kb": 78,
+    "context": "这是现在在queue的项目哈哈，根本跑不完"
+  },
+  {
+    "filename": "2026-04-14-006.png",
+    "sender": "Zhiyuan Zheng",
+    "timestamp": "2026-04-14T03:05:27.459Z",
+    "type": "hostedContent",
+    "size_kb": 94,
+    "context": "有同事用过这个吗？"
+  },
+  {
+    "filename": "2026-04-14-007.jpg",
+    "sender": "Jingxia Xing",
+    "timestamp": "2026-04-14T03:06:15.347Z",
+    "type": "hostedContent",
+    "size_kb": 3566,
+    "context": ""
+  },
+  {
+    "filename": "2026-04-14-008.png",
+    "sender": "Juanjuan Liu",
+    "timestamp": "2026-04-14T03:34:06.819Z",
+    "type": "hostedContent",
+    "size_kb": 81,
+    "context": "其实每个人自带几个agent，各自有一些不同的技能，除了agent们一起做项目，还可以模拟好多“日常”工作场景，比如上次 He Zhang&nbsp;&nbsp;要做一个PPT，拉了我的PM agen"
+  },
+  {
+    "filename": "2026-04-14-009.png",
+    "sender": "Miaomiao Lei",
+    "timestamp": "2026-04-14T05:01:24.359Z",
+    "type": "reference",
+    "original_name": "Screenshot 2026-04-14 at 12.59.52.png",
+    "size_kb": 155,
+    "context": "omg!!!&nbsp;He&nbsp;这些是啥"
+  },
+  {
+    "filename": "2026-04-14-010.png",
+    "sender": "Jie Tang",
+    "timestamp": "2026-04-14T06:34:34.457Z",
+    "type": "hostedContent",
+    "size_kb": 981,
+    "context": ""
+  },
+  {
+    "filename": "2026-04-14-011.png",
+    "sender": "He Zhang",
+    "timestamp": "2026-04-14T07:05:54.856Z",
+    "type": "hostedContent",
+    "size_kb": 66,
+    "context": "猜猜 &nbsp;Mike Li&nbsp;老师能get新的梗，为了防止大号也被封搞了个大号的backup"
+  }
+]
