@@ -3,74 +3,59 @@
   "images": [
     {
       "filename": "2026-04-15-001.png",
-      "type": "hosted",
-      "sender": "Weipeng Li",
-      "time_bjt": "20:39",
-      "context": "Claude Code 限流截图 — "限流了吗，我是一个人吗"",
-      "downloaded": true,
-      "size": 53028,
-      "msg_id": "1776256748853"
+      "type": "hostedContent",
+      "sender": "Xiaolin Quan",
+      "time_bjt": "10:31",
+      "size": 218926,
+      "downloaded": true
     },
     {
-      "filename": "2026-04-15-002.jpg",
-      "type": "hosted",
-      "sender": "He Zhang",
-      "time_bjt": "20:13",
-      "context": "Copilot CLI 体验截图（copilawd）",
-      "downloaded": true,
-      "size": 587093,
-      "msg_id": "1776255214121"
+      "filename": "2026-04-15-002.png",
+      "type": "hostedContent",
+      "sender": "Xiaolin Quan",
+      "time_bjt": "14:11",
+      "size": 23630,
+      "downloaded": true
     },
     {
-      "filename": "2026-04-15-003.jpg",
-      "type": "hosted",
-      "sender": "He Zhang",
-      "time_bjt": "20:30",
-      "context": "Copilot CLI 运行效果 — "可以了，养起来了"",
-      "downloaded": true,
-      "size": 540064,
-      "msg_id": "1776256207467"
+      "filename": "2026-04-15-003.png",
+      "type": "hostedContent",
+      "sender": "Bojun Chai",
+      "time_bjt": "14:13",
+      "size": 79893,
+      "downloaded": true
     },
     {
       "filename": "2026-04-15-004.png",
-      "type": "hosted",
+      "type": "hostedContent",
       "sender": "Bojun Chai",
       "time_bjt": "14:36",
-      "context": "Pipeline dashboard Sentry style 改造效果",
-      "downloaded": true,
       "size": 2915275,
-      "msg_id": "1776235012282"
+      "downloaded": true
     },
     {
-      "filename": "2026-04-15-005.png",
-      "type": "hosted",
-      "sender": "Xiaolin Quan",
-      "time_bjt": "14:11",
-      "context": "GoogleStich / design 模仿参考图",
-      "downloaded": true,
-      "size": 23630,
-      "msg_id": "1776233463967"
+      "filename": "2026-04-15-005.jpg",
+      "type": "hostedContent",
+      "sender": "He Zhang",
+      "time_bjt": "20:13",
+      "size": 587093,
+      "downloaded": true
     },
     {
-      "filename": "2026-04-15-006.png",
-      "type": "hosted",
-      "sender": "Bojun Chai",
-      "time_bjt": "14:13",
-      "context": "右上角这个倒是 Microsoft 补图",
-      "downloaded": true,
-      "size": 79893,
-      "msg_id": "1776233628359"
+      "filename": "2026-04-15-006.jpg",
+      "type": "hostedContent",
+      "sender": "He Zhang",
+      "time_bjt": "20:30",
+      "size": 540064,
+      "downloaded": true
     },
     {
       "filename": "2026-04-15-007.png",
-      "type": "hosted",
-      "sender": "Xiaolin Quan",
-      "time_bjt": "10:31",
-      "context": "Hermes agent 赛马截图 — 多 agent 对比",
-      "downloaded": true,
-      "size": 218926,
-      "msg_id": "1776220267757"
+      "type": "hostedContent",
+      "sender": "Weipeng Li",
+      "time_bjt": "20:39",
+      "size": 53028,
+      "downloaded": true
     }
-  ],
-  "filtered_out": []
+  ]
 }
