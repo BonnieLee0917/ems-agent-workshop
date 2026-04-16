@@ -1,10 +1,52 @@
-[
-  {
-    "file": "2026-04-15-001.png",
-    "sender": "Xiaolin Quan",
-    "time_bjt": "10:31",
-    "type": "hostedContent",
-    "description": "Hermes agent 赛马截图",
-    "size_bytes": 218926
-  }
-]
+{
+  "date": "2026-04-15",
+  "images": [
+    {
+      "filename": "2026-04-15-001.png",
+      "type": "hosted",
+      "sender": "Xiaolin Quan",
+      "time_bjt": "18:31",
+      "context": "Hermes agent 赛马截图",
+      "downloaded": true,
+      "size": 218926
+    },
+    {
+      "filename": "2026-04-15-002.png",
+      "type": "asm",
+      "sender": "Xiaolin Quan",
+      "time_bjt": "14:11",
+      "context": "GoogleStich / design 模仿参考图",
+      "downloaded": true,
+      "size": 11040
+    },
+    {
+      "filename": "2026-04-15-003.png",
+      "type": "asm",
+      "sender": "Bojun Chai",
+      "time_bjt": "14:36",
+      "context": "Sentry style 改造效果",
+      "downloaded": true,
+      "size": 46551
+    },
+    {
+      "filename": "2026-04-15-005.png",
+      "type": "asm",
+      "sender": "Bojun Chai",
+      "time_bjt": "14:13",
+      "context": "右上角这个倒是 Microsoft 补图",
+      "downloaded": true,
+      "size": 38395
+    }
+  ],
+  "filtered_out": [
+    {
+      "filename": "2026-04-15-004.gif",
+      "type": "asm",
+      "sender": "Bojun Chai",
+      "time_bjt": "14:24",
+      "context": "112x112 动图表情，已过滤",
+      "downloaded": false,
+      "size": 328555
+    }
+  ]
+}
