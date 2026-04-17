@@ -1,0 +1,22 @@
+{
+  "date": "2026-04-16",
+  "images": [
+    {"file": "2026-04-16-001.png", "sender": "Jacky Zeng", "time": "23:43 BJT", "type": "hostedContent", "size": "54KB", "content": "Opus 4.7 截图"},
+    {"file": "2026-04-16-002.png", "sender": "Jingxia Xing", "time": "23:22 BJT", "type": "hostedContent", "size": "3.4MB", "content": "dreamworks UnsubScribe 产品"},
+    {"file": "2026-04-16-003.png", "sender": "Weipeng Li", "time": "12:59 BJT", "type": "asm", "size": "32KB", "content": "GHC Opus 4.7 config"},
+    {"file": "2026-04-16-004.png", "sender": "He Zhang", "time": "20:05 BJT", "type": "hostedContent", "size": "102KB", "content": "Isotopes 截图 1"},
+    {"file": "2026-04-16-005.png", "sender": "He Zhang", "time": "20:05 BJT", "type": "hostedContent", "size": "287KB", "content": "Isotopes 截图 2"},
+    {"file": "2026-04-16-006.png", "sender": "Mike Li", "time": "19:40 BJT", "type": "hostedContent", "size": "159KB", "content": "被 bot social engineer 截图"},
+    {"file": "2026-04-16-008.png", "sender": "Scott Wei", "time": "12:40 BJT", "type": "hostedContent", "size": "66KB", "content": "New SaaS Revolution"},
+    {"file": "2026-04-16-009.jpg", "sender": "He Zhang", "time": "10:35 BJT", "type": "hostedContent", "size": "695KB", "content": "Copilot CLI / GitHub session"},
+    {"file": "2026-04-16-010.png", "sender": "Tracy Chen (PM)", "time": "09:25 BJT", "type": "hostedContent", "size": "84KB", "content": "OPC 桌面截图 1"},
+    {"file": "2026-04-16-011.png", "sender": "Tracy Chen (PM)", "time": "09:33 BJT", "type": "hostedContent", "size": "402KB", "content": "OPC 桌面截图 2"},
+    {"file": "2026-04-16-012.png", "sender": "Tracy Chen (PM)", "time": "09:20 BJT", "type": "hostedContent", "size": "349KB", "content": "PM Studio 截图"},
+    {"file": "2026-04-16-013.png", "sender": "Tracy Chen (PM)", "time": "09:19 BJT", "type": "hostedContent", "size": "176KB", "content": "OPC 截图"},
+    {"file": "2026-04-16-014.png", "sender": "Scott Wei", "time": "08:05 BJT", "type": "hostedContent", "size": "11KB", "content": "小橘 GitHub 被封"}
+  ],
+  "failed": [
+    {"sender": "Menci .", "time": "22:34 BJT", "type": "reference", "name": "IMG_8628.png", "reason": "accessDenied"},
+    {"sender": "Coraline Gao", "time": "18:51 BJT", "type": "reference", "name": "1776321654371.png", "reason": "accessDenied"}
+  ]
+}
