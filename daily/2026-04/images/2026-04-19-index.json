@@ -1,0 +1,8 @@
+{
+  "date": "2026-04-19",
+  "images": [
+    {"file": "2026-04-19-001.png", "sender": "Jingxia Xing", "time": "00:01", "type": "reference", "desc": "Superset 截图", "size_kb": 12},
+    {"file": "2026-04-19-002.png", "sender": "Jingxia Xing", "time": "21:33", "type": "reference", "desc": "Logex 产品截图", "size_kb": 937},
+    {"file": "2026-04-19-003.png", "sender": "Yue Liu", "time": "22:31", "type": "hostedContent", "desc": "Yue Liu 撞车截图", "size_kb": 100}
+  ]
+}
