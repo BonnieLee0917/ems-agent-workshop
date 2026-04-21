@@ -1,4 +1,86 @@
-[
-  {"file": "2026-04-20-001.png", "sender": "Menci .", "time": "02:02", "size_kb": 85, "type": "hostedContent", "desc": "确认 1M context 可用截图"},
-  {"file": "2026-04-20-002.png", "sender": "Jacky Zeng", "time": "09:48", "size_kb": 267, "type": "hostedContent", "desc": "xhigh effort 配置截图"}
-]
+{
+  "date": "2026-04-20",
+  "images": [
+    {
+      "filename": "2026-04-20-001.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "19:13",
+      "context": "",
+      "downloaded": true,
+      "size": 85336,
+      "msg_id": "1776683605935"
+    },
+    {
+      "filename": "2026-04-20-002.png",
+      "type": "hosted",
+      "sender": "Wenkai JIANG",
+      "time_bjt": "19:11",
+      "context": "",
+      "downloaded": true,
+      "size": 99813,
+      "msg_id": "1776683498796"
+    },
+    {
+      "filename": "2026-04-20-003.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "19:05",
+      "context": "",
+      "downloaded": true,
+      "size": 163017,
+      "msg_id": "1776683123559"
+    },
+    {
+      "filename": "2026-04-20-004.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "19:00",
+      "context": "",
+      "downloaded": true,
+      "size": 58382,
+      "msg_id": "1776682811773"
+    },
+    {
+      "filename": "2026-04-20-005.png",
+      "type": "hosted",
+      "sender": "Wenkai JIANG",
+      "time_bjt": "18:52",
+      "context": "",
+      "downloaded": true,
+      "size": 97726,
+      "msg_id": "1776682375432"
+    },
+    {
+      "filename": "2026-04-20-006.png",
+      "type": "hosted",
+      "sender": "Jacky Zeng",
+      "time_bjt": "10:36",
+      "context": "",
+      "downloaded": true,
+      "size": 211157,
+      "msg_id": "1776652606865"
+    },
+    {
+      "filename": "2026-04-20-007.png",
+      "type": "hosted",
+      "sender": "Jacky Zeng",
+      "time_bjt": "09:48",
+      "context": "",
+      "downloaded": true,
+      "size": 273050,
+      "msg_id": "1776649701405"
+    },
+    {
+      "filename": "2026-04-20-008.png",
+      "type": "hosted",
+      "sender": "Menci .",
+      "time_bjt": "02:02",
+      "context": "",
+      "downloaded": true,
+      "size": 86998,
+      "msg_id": "1776621766019"
+    }
+  ],
+  "filtered_out": []
+}
