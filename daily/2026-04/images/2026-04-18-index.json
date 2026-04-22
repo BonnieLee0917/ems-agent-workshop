@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-18",
+  "images": [
+    {
+      "filename": "2026-04-18-001.png",
+      "type": "hosted",
+      "sender": "Weipeng Li",
+      "time_bjt": "23:58",
+      "context": "",
+      "downloaded": true,
+      "size": 471483,
+      "msg_id": "1776527921394"
+    },
+    {
+      "filename": "2026-04-18-002.png",
+      "type": "hosted",
+      "sender": "Weipeng Li",
+      "time_bjt": "23:58",
+      "context": "",
+      "downloaded": true,
+      "size": 855934,
+      "msg_id": "1776527921394"
+    },
+    {
+      "filename": "2026-04-18-003.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "23:20",
+      "context": "",
+      "downloaded": true,
+      "size": 655504,
+      "msg_id": "1776525612634"
+    },
+    {
+      "filename": "2026-04-18-004.png",
+      "type": "hosted",
+      "sender": "Jingxia Xing",
+      "time_bjt": "22:40",
+      "context": "",
+      "downloaded": true,
+      "size": 52062,
+      "msg_id": "1776523206465"
+    },
+    {
+      "filename": "2026-04-18-005.png",
+      "type": "hosted",
+      "sender": "Jacky Zeng",
+      "time_bjt": "19:05",
+      "context": "",
+      "downloaded": true,
+      "size": 75670,
+      "msg_id": "1776510335768"
+    },
+    {
+      "filename": "2026-04-18-006.png",
+      "type": "hosted",
+      "sender": "Jacky Zeng",
+      "time_bjt": "18:30",
+      "context": "",
+      "downloaded": true,
+      "size": 118801,
+      "msg_id": "1776508231738"
+    }
+  ],
+  "filtered_out": []
+}

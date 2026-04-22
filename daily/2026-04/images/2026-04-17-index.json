@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-17",
+  "images": [
+    {
+      "filename": "2026-04-17-001.png",
+      "type": "hosted",
+      "sender": "Xiaolin Quan",
+      "time_bjt": "22:31",
+      "context": "",
+      "downloaded": true,
+      "size": 131714,
+      "msg_id": "1776436304067"
+    },
+    {
+      "filename": "2026-04-17-002.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "20:23",
+      "context": "",
+      "downloaded": true,
+      "size": 111549,
+      "msg_id": "1776428631205"
+    },
+    {
+      "filename": "2026-04-17-003.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "20:23",
+      "context": "",
+      "downloaded": true,
+      "size": 345651,
+      "msg_id": "1776428631205"
+    },
+    {
+      "filename": "2026-04-17-004.png",
+      "type": "hosted",
+      "sender": "Weipeng Li",
+      "time_bjt": "12:59",
+      "context": "",
+      "downloaded": true,
+      "size": 70416,
+      "msg_id": "1776401986507"
+    },
+    {
+      "filename": "2026-04-17-005.png",
+      "type": "hosted",
+      "sender": "Dazhen Pan",
+      "time_bjt": "11:11",
+      "context": "",
+      "downloaded": true,
+      "size": 75773,
+      "msg_id": "1776395493883"
+    },
+    {
+      "filename": "2026-04-17-006.png",
+      "type": "hosted",
+      "sender": "Dazhen Pan",
+      "time_bjt": "00:03",
+      "context": "",
+      "downloaded": true,
+      "size": 187323,
+      "msg_id": "1776355423593"
+    }
+  ],
+  "filtered_out": []
+}
