@@ -1,8 +1,36 @@
 {
   "date": "2026-04-19",
   "images": [
-    {"file": "2026-04-19-001.png", "sender": "Jingxia Xing", "time": "00:01", "type": "reference", "desc": "Superset 截图", "size_kb": 12},
-    {"file": "2026-04-19-002.png", "sender": "Jingxia Xing", "time": "21:33", "type": "reference", "desc": "Logex 产品截图", "size_kb": 937},
-    {"file": "2026-04-19-003.png", "sender": "Yue Liu", "time": "22:31", "type": "hostedContent", "desc": "Yue Liu 撞车截图", "size_kb": 100}
-  ]
+    {
+      "filename": "2026-04-19-001.png",
+      "type": "reference",
+      "sender": "Jingxia Xing",
+      "time_bjt": "21:33",
+      "context": "",
+      "downloaded": true,
+      "size": 936650,
+      "msg_id": "1776605621901"
+    },
+    {
+      "filename": "2026-04-19-002.png",
+      "type": "hosted",
+      "sender": "Yue Liu",
+      "time_bjt": "22:31",
+      "context": "",
+      "downloaded": true,
+      "size": 100496,
+      "msg_id": "1776609072000"
+    },
+    {
+      "filename": "2026-04-19-003.png",
+      "type": "reference",
+      "sender": "Jingxia Xing",
+      "time_bjt": "00:01",
+      "context": "",
+      "downloaded": true,
+      "size": 12003,
+      "msg_id": "1776528089758"
+    }
+  ],
+  "filtered_out": []
 }
