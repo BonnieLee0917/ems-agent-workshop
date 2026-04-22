@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-21",
+  "images": [
+    {
+      "filename": "2026-04-21-001.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "17:57",
+      "context": "",
+      "downloaded": true,
+      "size": 62838,
+      "msg_id": "1776765470092"
+    },
+    {
+      "filename": "2026-04-21-002.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "16:41",
+      "context": "",
+      "downloaded": true,
+      "size": 17964,
+      "msg_id": "1776760888181"
+    },
+    {
+      "filename": "2026-04-21-003.png",
+      "type": "hosted",
+      "sender": "Zhiyuan Zheng",
+      "time_bjt": "15:25",
+      "context": "",
+      "downloaded": true,
+      "size": 462384,
+      "msg_id": "1776756304232"
+    },
+    {
+      "filename": "2026-04-21-004.png",
+      "type": "hosted",
+      "sender": "Yang Huangfu",
+      "time_bjt": "10:42",
+      "context": "",
+      "downloaded": true,
+      "size": 1871477,
+      "msg_id": "1776739342301"
+    },
+    {
+      "filename": "2026-04-21-005.png",
+      "type": "hosted",
+      "sender": "Yang Huangfu",
+      "time_bjt": "10:42",
+      "context": "",
+      "downloaded": true,
+      "size": 521136,
+      "msg_id": "1776739342301"
+    }
+  ],
+  "filtered_out": []
+}
