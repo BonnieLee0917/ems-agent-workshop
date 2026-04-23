@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-22",
+  "images": [
+    {
+      "filename": "2026-04-22-001.jpg",
+      "type": "hosted",
+      "sender": "Jie Gao",
+      "time_bjt": "10:18",
+      "context": "",
+      "downloaded": true,
+      "size": 29532,
+      "msg_id": "1776824325435"
+    },
+    {
+      "filename": "2026-04-22-002.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "13:55",
+      "context": "",
+      "downloaded": true,
+      "size": 242200,
+      "msg_id": "1776837326943"
+    },
+    {
+      "filename": "2026-04-22-003.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "13:55",
+      "context": "",
+      "downloaded": true,
+      "size": 472844,
+      "msg_id": "1776837326943"
+    },
+    {
+      "filename": "2026-04-22-004.png",
+      "type": "hosted",
+      "sender": "Zhiyuan Zheng",
+      "time_bjt": "10:37",
+      "context": "",
+      "downloaded": true,
+      "size": 92223,
+      "msg_id": "1776825478051"
+    },
+    {
+      "filename": "2026-04-22-005.png",
+      "type": "reference",
+      "sender": "Strong Liu",
+      "time_bjt": "03:17",
+      "context": "",
+      "downloaded": true,
+      "size": 63152,
+      "msg_id": "1776799045384"
+    }
+  ],
+  "filtered_out": []
+}
