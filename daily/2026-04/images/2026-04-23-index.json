@@ -1,0 +1,76 @@
+{
+  "date": "2026-04-23",
+  "images": [
+    {
+      "filename": "2026-04-23-001.png",
+      "type": "hosted",
+      "sender": "Mike Li",
+      "time_bjt": "18:46",
+      "context": "",
+      "downloaded": true,
+      "size": 446405,
+      "msg_id": "1776941185954"
+    },
+    {
+      "filename": "2026-04-23-002.png",
+      "type": "hosted",
+      "sender": "Menci .",
+      "time_bjt": "18:25",
+      "context": "",
+      "downloaded": true,
+      "size": 484889,
+      "msg_id": "1776939921981"
+    },
+    {
+      "filename": "2026-04-23-003.png",
+      "type": "hosted",
+      "sender": "He Zhang",
+      "time_bjt": "18:13",
+      "context": "",
+      "downloaded": true,
+      "size": 25524,
+      "msg_id": "1776939234938"
+    },
+    {
+      "filename": "2026-04-23-004.jpg",
+      "type": "hosted",
+      "sender": "Mike Li",
+      "time_bjt": "15:34",
+      "context": "",
+      "downloaded": true,
+      "size": 37864,
+      "msg_id": "1776929661159"
+    },
+    {
+      "filename": "2026-04-23-005.png",
+      "type": "hosted",
+      "sender": "Tracy Chen (PM)",
+      "time_bjt": "12:47",
+      "context": "",
+      "downloaded": true,
+      "size": 329068,
+      "msg_id": "1776919656026"
+    },
+    {
+      "filename": "2026-04-23-006.png",
+      "type": "hosted",
+      "sender": "Yang Huangfu",
+      "time_bjt": "13:06",
+      "context": "",
+      "downloaded": true,
+      "size": 9486,
+      "msg_id": "1776920794557"
+    },
+    {
+      "filename": "2026-04-23-007.png",
+      "type": "hosted",
+      "sender": "Zheng Li",
+      "time_bjt": "09:39",
+      "context": "",
+      "downloaded": true,
+      "size": 240026,
+      "msg_id": "1776908396794"
+    }
+  ],
+  "filtered_out": []
+}
