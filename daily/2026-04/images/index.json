@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-27",
+  "images": [
+    {
+      "file": "2026-04-27-001.jpg",
+      "sender": "Cathy Chen (ICE)",
+      "time": "14:54",
+      "desc": "GitHub账号被封截图"
+    },
+    {
+      "file": "2026-04-27-002.jpg",
+      "sender": "Bojun Chai",
+      "time": "14:41",
+      "desc": "OpenClaw PR排版截图"
+    },
+    {
+      "file": "2026-04-27-003.gif",
+      "sender": "Bojun Chai",
+      "time": "14:06",
+      "desc": "动图"
+    }
+  ]
+}
